@@ -1,6 +1,6 @@
 # Rayhaan Farooq
 
-## 🚀 Passionate Software Developer | AI/ML Enthusiast | Hackathon Winner
+## 🚀 Passionate Software Developer | Seeking Internships
 
 Hello, world! 👋 I'm Rayhaan, a dedicated software developer with a passion for turning complex challenges into elegant, scalable solutions. My journey in tech is fueled by a curiosity for all aspects of computer science and a drive to continuously expand my skillset.
 
