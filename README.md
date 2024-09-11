@@ -7,7 +7,7 @@ Hello, world! 👋 I'm Rayhaan, a dedicated software developer with a passion fo
 ### 💻 Technical Proficiencies
 
 - **Languages & Technologies:** Java, JavaScript, Python, HTML, CSS
-- **Frameworks & Tools:** React.js, Tailwind CSS, Firebase, Next.js, Python, Java
+- **Frameworks & Tools:** React.js, Tailwind CSS, Firebase, Next.js
 
 ### 🏆 Recent Achievements
 
