@@ -46,7 +46,7 @@ When I'm not immersed in code, you might find me:
 
 I'm always open to discussing exciting opportunities, collaborating on projects, or even exploring new hobbies like rock climbing. Feel free to reach out and let's create something amazing together!
 
-https://www.linkedin.com/in/rayhaanfarooq/ | rayhaan2004@hotmail.com
+https://www.linkedin.com/in/rayhaanfarooq/ | rayhaan2004@hotmail.com | https://rayhaanfarooq.netlify.app 
 
 ---
 
